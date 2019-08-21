@@ -190,7 +190,7 @@ True
 >>> 'a' * 20 is 'aaaaaaaaaaaaaaaaaaaa'
 True
 >>> 'a' * 21 is 'aaaaaaaaaaaaaaaaaaaaa'
-False
+True
 ```
 
 Makes sense, right?
